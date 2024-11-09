@@ -1,0 +1,58 @@
+{
+    "total_count": 38,
+    "current_page": 1,
+    "previous_page_url": false,
+    "next_page_url": "http://www.lenvendo.ru/api/js-test-task/?search=Alcatel&sort_field=name&page=2",
+    "products": [
+        {
+            "name": "Смартфон Alcatel 1 5033D 8Gb Black",
+            "image": "http://www.lenvendo.ru/api/js-test-task/data/images/smartfon_alcatel_1_5033d_black_0.jpg",
+            "price": 3490
+        },
+        {
+            "name": "Смартфон Alcatel 1 5033D 8Gb Blue",
+            "image": "http://www.lenvendo.ru/api/js-test-task/data/images/smartfon_alcatel_1_5033d_8gb_blue_1.jpg",
+            "price": 3490
+        },
+        {
+            "name": "Смартфон Alcatel 1 5033D 8Gb Gold",
+            "image": "http://www.lenvendo.ru/api/js-test-task/data/images/smartfon_alcatel_1_5033d_8gb_gold_1.jpg",
+            "price": 3490
+        },
+        {
+            "name": "Смартфон Alcatel 1C (5009D) Black",
+            "image": "http://www.lenvendo.ru/api/js-test-task/data/images/963e90b09ad36df62c635ecf431f4738.jpg",
+            "price": 4490
+        },
+        {
+            "name": "Смартфон Alcatel 1C (5009D) Blue",
+            "image": "http://www.lenvendo.ru/api/js-test-task/data/images/2e14b048ca556786c6c8c351ecc61815.jpg",
+            "price": 4490
+        },
+        {
+            "name": "Смартфон Alcatel 1C (5009D) Gold",
+            "image": "http://www.lenvendo.ru/api/js-test-task/data/images/bd2d17f31608406c68cb0d3f3351fa3b.jpg",
+            "price": 4490
+        },
+        {
+            "name": "Смартфон Alcatel 1S 5024D 3/32 Blue",
+            "image": "http://www.lenvendo.ru/api/js-test-task/data/images/smartfon_alcatel_1s_5024d_3_32_blue_1.jpg",
+            "price": 5990
+        },
+        {
+            "name": "Смартфон Alcatel 1S 5024D 3/32Gb Black",
+            "image": "http://www.lenvendo.ru/api/js-test-task/data/images/smartfon_alcatel_1s_5024d_black_1.jpg",
+            "price": 5990
+        },
+        {
+            "name": "Смартфон Alcatel 1X (5059D) Blue",
+            "image": "http://www.lenvendo.ru/api/js-test-task/data/images/19afa7c8a28c63a04f80bb36141aecb6.jpg",
+            "price": 3990
+        },
+        {
+            "name": "Смартфон Alcatel 1X (5059D) Gold",
+            "image": "http://www.lenvendo.ru/api/js-test-task/data/images/aa22cf923b34f39236b1b4f6651788c3.jpg",
+            "price": 3990
+        }
+    ]
+}
